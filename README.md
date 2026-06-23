@@ -30,6 +30,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Recursion
@@ -100,4 +101,12 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
