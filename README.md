@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -20,6 +21,7 @@
 | [0075-sort-colors](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0342-power-of-four) |
