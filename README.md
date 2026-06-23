@@ -63,4 +63,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
