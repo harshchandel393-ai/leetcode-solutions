@@ -6,6 +6,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -26,4 +28,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0326-power-of-three) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
