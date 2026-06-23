@@ -43,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
