@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,4 +128,8 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0704-binary-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
