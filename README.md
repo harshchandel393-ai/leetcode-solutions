@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Math
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
