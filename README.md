@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
