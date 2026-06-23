@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +123,5 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
