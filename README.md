@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -22,6 +23,7 @@
 | [0088-merge-sorted-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
