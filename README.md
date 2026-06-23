@@ -16,6 +16,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,4 +33,9 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
