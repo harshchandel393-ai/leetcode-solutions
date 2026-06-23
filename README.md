@@ -47,6 +47,7 @@
 | [0258-add-digits](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -70,6 +71,7 @@
 | [0125-valid-palindrome](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0412-fizz-buzz](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
