@@ -12,6 +12,7 @@
 | [0118-pascals-triangle](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
