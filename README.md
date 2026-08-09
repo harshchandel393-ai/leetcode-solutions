@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -199,4 +201,20 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
