@@ -66,6 +66,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0258-add-digits) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -190,6 +192,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
