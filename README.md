@@ -97,6 +97,7 @@
 | [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0242-valid-anagram](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
 | ------- |
