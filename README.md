@@ -162,6 +162,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -281,4 +284,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0079-word-search) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
