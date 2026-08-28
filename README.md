@@ -69,6 +69,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -216,6 +217,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0268-missing-number) |
@@ -297,4 +299,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
