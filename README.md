@@ -99,6 +99,7 @@
 | [0141-linked-list-cycle](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0268-missing-number) |
@@ -112,6 +113,7 @@
 | [0058-length-of-last-word](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -146,6 +148,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0933-number-of-recent-calls](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -303,4 +306,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0069-sqrtx) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
