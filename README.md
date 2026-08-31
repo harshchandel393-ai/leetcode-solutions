@@ -26,6 +26,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0268-missing-number) |
@@ -180,6 +181,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -263,6 +266,7 @@
 | [0100-same-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -297,6 +301,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## String Matching
 |  |
 | ------- |
