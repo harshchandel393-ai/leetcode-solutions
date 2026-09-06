@@ -28,6 +28,7 @@
 | [0189-rotate-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0268-missing-number) |
@@ -133,6 +134,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
