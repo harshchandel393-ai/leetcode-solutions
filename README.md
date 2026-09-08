@@ -51,6 +51,7 @@
 | [0143-reorder-list](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [0316-remove-duplicate-letters](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0198-house-robber](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
