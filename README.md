@@ -78,6 +78,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -140,6 +141,7 @@
 | [0005-longest-palindromic-substring](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -385,4 +387,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
