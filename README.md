@@ -135,6 +135,7 @@
 | [0412-fizz-buzz](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0322-coin-change](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -391,4 +393,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
