@@ -1,13 +1,22 @@
-class Solution(object):
-    def maxSubArray(self, nums):
-        n = len(nums)
-        maxi = float("-inf")
-        total = 0
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        def dfs(l, r):
+            if l > r:
+                return float("-inf")
 
-        for i in range(0,n):
-            total = total + nums[i]
-            maxi = max(maxi, total)
-            if total < 0:
-                total = 0
-        return maxi
-        
+            m = (l + r) >> 1
+            leftSum = rightSum = curSum = 0
+            for i in range(m - 1, l - 1, -1):
+                curSum += nums[i]
+                leftSum = max(leftSum, curSum)
+
+            curSum = 0
+            for i in range(m + 1, r + 1):
+                curSum += nums[i]
+                rightSum = max(rightSum, curSum)
+
+            return (max(dfs(l, m - 1),
+                        dfs(m + 1, r),
+                        leftSum + nums[m] + rightSum))
+
+        return dfs(0, len(nums) - 1)
