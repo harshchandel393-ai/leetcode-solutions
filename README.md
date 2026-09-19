@@ -39,6 +39,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -68,6 +69,7 @@
 | [0217-contains-duplicate](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0213-house-robber-ii](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -234,6 +237,7 @@
 | [0011-container-with-most-water](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0435-non-overlapping-intervals](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Monotonic Stack
 |  |
 | ------- |
