@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -342,6 +344,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
