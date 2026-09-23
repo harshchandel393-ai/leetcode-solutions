@@ -80,6 +80,7 @@
 | [0191-number-of-1-bits](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Math
 |  |
@@ -163,6 +164,7 @@
 | [0213-house-robber-ii](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0647-palindromic-substrings) |
