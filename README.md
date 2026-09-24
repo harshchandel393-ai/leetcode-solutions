@@ -82,6 +82,7 @@
 | [0268-missing-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0268-missing-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
