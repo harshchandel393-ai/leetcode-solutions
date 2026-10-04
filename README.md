@@ -424,4 +424,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
