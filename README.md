@@ -89,6 +89,7 @@
 | [0002-add-two-numbers](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -137,6 +139,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0058-length-of-last-word) |
