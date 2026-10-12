@@ -149,6 +149,7 @@
 | [0014-longest-common-prefix](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0091-decode-ways) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0062-unique-paths) |
@@ -361,6 +363,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0079-word-search) |
@@ -442,4 +445,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0177-nth-highest-salary) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harshchandel393-ai/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
